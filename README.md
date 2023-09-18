@@ -1,4 +1,4 @@
-<img height="200" width="1200" src="[https://drive.google.com/file/d/13y2wmMg_LCEHtlHdiqjHMzN_MUO3aHCo/view?usp=sharing](https://github.com/MuttuVittal818/MuttuVittal818/blob/main/Abc.png)" alt="Image">
+<img height="200" width="1200" src="Abc.png" alt="Image">
 
 <h1 align="center">Hi 👋, I'm Muttu Handigund</h1>
 <h3 align="center">A passionate Software Engineer from INDIA</h3>
