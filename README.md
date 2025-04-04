@@ -17,9 +17,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muttu-handigund/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muttu-handigund" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22242732/muttu-handigund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22242732/muttu-handigund" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/muttuvittal818?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/muttuvittal818?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.hackerearth.com/@muttu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="https://www.hackerearth.com/@muttu10" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/Muttu_Handigund/" target="blank"><img align="center" src="<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/Muttu_Handigund" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
