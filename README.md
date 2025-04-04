@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Muttu Handigund</h1>
 <h3 align="center">A passionate Software Engineer from INDIA</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muttuvittal818&label=Profile%20views&color=0e75b6&style=flat" alt="muttuvittal818" /> </p>
+
 🔭 I’m currently working on **Full-Stack Developement**
 
-🌱 I’m currently learning **Advance Java and Kotlin Programming Language**
+🌱 I’m currently learning **Advance Java and Spring Boot**
 
 👯 I’m looking to collaborate on **Web and Android application development**
 
@@ -17,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muttu-handigund/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muttu-handigund" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22242732/muttu-handigund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22242732/muttu-handigund" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/muttuvittal818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/muttuvittal818" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Muttu_Handigund/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/Muttu_Handigund" height="30" width="40" /></a>
 </p>
